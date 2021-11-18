@@ -1,0 +1,41 @@
+body{
+    background-color: cornsilk;
+    color: brown;
+    font-size: 16px;
+    font-family:cursive ;
+}
+
+
+h1{
+    color: black;
+    font-family: monospace;
+}
+
+h2{
+    color: crimson;
+    font-family: monospace;
+}
+
+
+#html-anatomy-heading{
+    color:brown;
+    font-family: monospace;
+}
+
+#html-summary-heading{
+    color:crimson;
+    font-family: monospace;
+}
+
+#html-small-heading{
+    color:crimson;
+    font-family: cursive;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 17;
+}
+.underline{
+    text-decoration: underline;
+}
